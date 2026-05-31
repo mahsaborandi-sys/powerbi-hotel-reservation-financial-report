@@ -90,6 +90,38 @@ It showcases strong skills in data modeling, DAX, visualization design, and stor
 ---
 
 # 🖼️ Dashboard Preview
-![Reservation Revenue dashboard](./images/dashboard.jpg)  
+![Reservation Revenue dashboard](./images/dashboard.jpg) </br></br>
 ![Booking Revenue dashboard](./images/dashboard2.jpg)
 
+---
+
+## 🚀 Tech Stack
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling (Star Schema)
+
+---
+
+## 💡 Key Insights
+
+* A significant portion of reservations does not convert into realized revenue, indicating **strong revenue leakage**.
+  
+* All booking channels show similar performance patterns, **suggesting systemic issues** rather than channel-specific problems.
+
+* Payment methods do not meaningfully influence revenue loss, highlighting that **cancellations occur before the payment stage**.
+
+* Seasonal patterns reveal clear peaks in **successful bookings** and specific seasons with **higher cancellation risk**.
+
+* Year-over-year trends show **operational improvement**, with cancellations decreasing despite higher reservation volumes.
+
+* Monthly trends demonstrate **volatility**, emphasizing the need for **dynamic forecasting and flexible policies**.
+
+* Weekly booking behavior highlights opportunities for **dynamic pricing** and **targeted promotions**.
+
+* Nationality-based revenue distribution identifies **high-value markets** for targeted marketing strategies.
+
+> [!NOTE]
+> 📩 **For Customized Dashboards & Insight Reports** </br>
+If you are interested in receiving a professional, fully customized Power BI dashboard along with a detailed interpretation of all insights, feel free to contact me.
+I design tailored analytics solutions that align with your business needs and deliver clear, actionable intelligence.
