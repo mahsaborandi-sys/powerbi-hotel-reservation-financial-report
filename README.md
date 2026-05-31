@@ -90,5 +90,6 @@ It showcases strong skills in data modeling, DAX, visualization design, and stor
 ---
 
 # 🖼️ Dashboard Preview
-
+![Reservation Revenue dashboard](./images/dashboard.jpg)  
+![Booking Revenue dashboard](./images/dashboard2.jpg)
 
